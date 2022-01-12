@@ -1,0 +1,83 @@
+.portfolio_metrics_left_text{
+    font-family: cursive;
+    font-size: 15px;
+    width:70%;
+}
+.portfolio_metrics_right_text{
+    font-family: cursive;
+    font-size: 15px;
+    width:30%;
+}
+
+.pie_chart_text_row1{
+    position:relative;
+    top:15px;
+    left:45px;
+    font-family: cursive;
+    font-size: 15px;
+    }
+
+.pie_chart_text_row2{
+    position:relative;
+    top:0px;
+    left:45px;
+    font-family: cursive;
+    font-size: 15px;
+    }
+
+.link:hover {
+        font-weight:bold
+    }
+
+.side_panel {
+  height:91vh;
+  position:sticky;
+  top:62px;
+  overflow-y:scroll;
+  padding:17px 22px 10px 35px;
+  margin-bottom:10px;
+}
+
+.dropdown .Select-control{
+    background-color: #383e45;
+    color: #ffffff;
+}
+
+.dropdown .Select-menu-outer {
+  background-color: #383e45;
+  color: #ffffff;
+}
+
+.dropdown .Select-control, .Select-input>input{
+    color: #ffffff;
+}
+
+.inputs {
+    background-color: #383e45;
+    border: 1px solid rgba(255,255,255);
+    color: #ffffff;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+     margin: 0 4px 0 0;
+}
+
+input#date {
+    background-color: #383e45;
+    border: 1px rgba(255,255,255);
+    color: #ffffff;
+    border-radius: 4px;
+}
+
+.p_headings={
+    font-family: cursive;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.Select.has-value.Select--single > .Select-control .Select-value .Select-value-label, .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+    color:  #ffffff !important;
+    background-color: #383e45;
+}
+
